@@ -1,1 +1,26 @@
-ewogICJuYW1lIjogImFpLWdvdmVybm1lbnQtbGV0dGVyLWFzc2lzdGFudCIsCiAgInByaXZhdGUiOiB0cnVlLAogICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAidHlwZSI6ICJtb2R1bGUiLAogICJzY3JpcHRzIjogewogICAgImRldiI6ICJ2aXRlIiwKICAgICJidWlsZCI6ICJ2aXRlIGJ1aWxkIiwKICAgICJwcmV2aWV3IjogInZpdGUgcHJldmlldyIKICB9LAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAiQHZpdGVqcy9wbHVnaW4tcmVhY3QiOiAiNC4zLjQiLAogICAgInZpdGUiOiAiNS40LjE0IiwKICAgICJyZWFjdCI6ICIxOC4zLjEiLAogICAgInJlYWN0LWRvbSI6ICIxOC4zLjEiLAogICAgImx1Y2lkZS1yZWFjdCI6ICIwLjQ2OC4wIiwKICAgICJtYW1tb3RoIjogIjEuOS4wIiwKICAgICJwZGZqcy1kaXN0IjogIjQuMTAuMzgiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgImF1dG9wcmVmaXhlciI6ICIxMC40LjIwIiwKICAgICJwb3N0Y3NzIjogIjguNC40OSIsCiAgICAidGFpbHdpbmRjc3MiOiAiMy40LjE3IgogIH0KfQo=
+{
+  "name": "ai-government-letter-assistant",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.14",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "lucide-react": "0.468.0",
+    "mammoth": "1.9.0",
+    "pdfjs-dist": "4.10.38"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.49",
+    "tailwindcss": "3.4.17"
+  }
+}
+
