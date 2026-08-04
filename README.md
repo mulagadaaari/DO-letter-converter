@@ -1,1 +1,59 @@
-IyBETy1sZXR0ZXItY29udmVydGVyCgpBIHByaXZhY3ktY29uc2Npb3VzIEFJIGRyYWZ0aW5nIHRvb2wgdGhhdCBjb252ZXJ0cyBvZmZpY2lhbCBnb3Zlcm5tZW50IGNvcnJlc3BvbmRlbmNlIGludG8gcG9saXNoZWQgRGVtaS1PZmZpY2lhbCAoRC5PLikgbGV0dGVycy4gSXQgaGFzIG5vIGRhdGFiYXNlLCBsb2dpbiwgYW5hbHl0aWNzLCBvciBwZXJzaXN0ZW50IHVzZXItZGF0YSBzdG9yYWdlLgoKWW91IGNhbiBwYXN0ZSBjb3JyZXNwb25kZW5jZSBkaXJlY3RseSBvciB1cGxvYWQgYSB0ZXh0LWJhc2VkIFBERiBvciBXb3JkIChgLmRvY3hgKSBmaWxlLiBVcGxvYWRlZCBmaWxlcyBhcmUgcmVhZCBsb2NhbGx5IGluIHRoZSBicm93c2VyLCB0aGVuIHRoZWlyIGV4dHJhY3RlZCB0ZXh0IGlzIHBsYWNlZCBpbiB0aGUgZWRpdG9yLiBTY2FubmVkIFBERnMgd2l0aG91dCBzZWxlY3RhYmxlIHRleHQgbmVlZCBPQ1IgYmVmb3JlIHVwbG9hZC4KCiMjIFN0YWNrCgotIFJlYWN0ICsgVml0ZQotIFRhaWx3aW5kIENTUwotIFZlcmNlbCBzZXJ2ZXJsZXNzIEFQSSByb3V0ZQotIE9wZW5BSSBSZXNwb25zZXMgQVBJCgojIyBJbnN0YWxsIGFuZCBydW4gbG9jYWxseQoKMS4gSW5zdGFsbCBOb2RlLmpzIDIwIG9yIGxhdGVyLgoyLiBJbnN0YWxsIGRlcGVuZGVuY2llczoKCiAgIGBgYGJhc2gKICAgbnBtIGluc3RhbGwKICAgYGBgCgozLiBDcmVhdGUgYSBgLmVudi5sb2NhbGAgZmlsZSBiYXNlZCBvbiBgLmVudi5leGFtcGxlYCBhbmQgYWRkIHlvdXIgT3BlbkFJIEFQSSBrZXk6CgogICBgYGBlbnYKICAgT1BFTkFJX0FQSV9LRVk9eW91cl9vcGVuYWlfYXBpX2tleV9oZXJlCiAgIGBgYAoKNC4gU3RhcnQgdGhlIGRldmVsb3BtZW50IHNlcnZlcjoKCiAgIGBgYGJhc2gKICAgbnBtIHJ1biBkZXYKICAgYGBgCgogICBPcGVuIHRoZSBhZGRyZXNzIFZpdGUgcHJpbnRzICh1c3VhbGx5IGBodHRwOi8vbG9jYWxob3N0OjUxNzNgKS4gVml0ZSBzZXJ2ZXMgdGhlIHNlcnZlcmxlc3MgZnVuY3Rpb24gZHVyaW5nIGxvY2FsIGRldmVsb3BtZW50LgoKIyMgRGVwbG95IHRvIFZlcmNlbAoKMS4gUHVzaCB0aGlzIHJlcG9zaXRvcnkgdG8gR2l0SHViLCBHaXRMYWIsIG9yIEJpdGJ1Y2tldCBhbmQgaW1wb3J0IGl0IGluIFtWZXJjZWxdKGh0dHBzOi8vdmVyY2VsLmNvbS9uZXcpLCBvciBydW4gYHZlcmNlbGAgZnJvbSB0aGUgcHJvamVjdCBmb2xkZXIuCjIuIEluICoqUHJvamVjdCBTZXR0aW5ncyDihpIgRW52aXJvbm1lbnQgVmFyaWFibGVzKiosIGFkZCBgT1BFTkFJX0FQSV9LRVlgIHdpdGggeW91ciBPcGVuQUkgQVBJIGtleS4gQWRkIGl0IGZvciBQcm9kdWN0aW9uLCBQcmV2aWV3LCBhbmQgRGV2ZWxvcG1lbnQgYXMgYXBwcm9wcmlhdGUuCjMuIFVzZSB0aGUgYXV0b21hdGljYWxseSBkZXRlY3RlZCBzZXR0aW5nczogYnVpbGQgY29tbWFuZCBgbnBtIHJ1biBidWlsZGAgYW5kIG91dHB1dCBkaXJlY3RvcnkgYGRpc3RgLgo0LiBEZXBsb3kuIFRoZSBgL2FwaS9jb252ZXJ0YCBWZXJjZWwgZnVuY3Rpb24ga2VlcHMgdGhlIEFQSSBrZXkgcHJpdmF0ZSBvbiB0aGUgc2VydmVyLgoKIyMgUHJvamVjdCBsYXlvdXQKCmBgYAphcGkvICAgICAgICAgIFZlcmNlbCBzZXJ2ZXJsZXNzIE9wZW5BSSBwcm94eQpzcmMvY29tcG9uZW50cyBSZXVzYWJsZSBVSSBjb21wb25lbnRzCnNyYy91dGlscyAgICAgIENsaWVudC1zaWRlIERPQ1ggYnVpbGRlcgpzcmMvICAgICAgICAgICBSZWFjdCBhcHBsaWNhdGlvbiBhbmQgc3R5bGVzCnB1YmxpYy8gICAgICAgIFN0YXRpYyBhc3NldHMgKHJlYWR5IGZvciBhZGRpdGlvbnMpCmBgYAoKIyMgTm90ZXMKCi0gT2ZmaWNpYWwgbGV0dGVyIGNvbnRlbnQgaXMgaGVsZCBvbmx5IGluIHRoZSBicm93c2VyIHdoaWxlIHRoZSBwYWdlIGlzIG9wZW4uIFRoZSBjb252ZXJzaW9uIHJlcXVlc3QgaXMgc2VudCB0byBPcGVuQUkgdGhyb3VnaCB0aGUgc2VydmVybGVzcyBlbmRwb2ludCBhbmQgaXMgbm90IHN0b3JlZCBieSB0aGlzIGFwcGxpY2F0aW9uLgotIERPQ1ggZG93bmxvYWQgaXMgZ2VuZXJhdGVkIGZ1bGx5IGluIHRoZSBicm93c2VyIHdpdGggbm8gdGhpcmQtcGFydHkgZG9jdW1lbnQgc2VydmljZS4KLSBIaW5kaSBhbmQgT2RpYSBhcmUgZGVsaWJlcmF0ZWx5IHNob3duIGFzIGZ1dHVyZSBwbGFjZWhvbGRlcnMgYW5kIGNhbm5vdCB5ZXQgYmUgc3VibWl0dGVkLgo=
+# DO-letter-converter
+
+A privacy-conscious AI drafting tool that converts official government correspondence into polished Demi-Official (D.O.) letters. It has no database, login, analytics, or persistent user-data storage.
+
+You can paste correspondence directly or upload a text-based PDF or Word (`.docx`) file. Uploaded files are read locally in the browser, then their extracted text is placed in the editor. Scanned PDFs without selectable text need OCR before upload.
+
+## Stack
+
+- React + Vite
+- Tailwind CSS
+- Vercel serverless API route
+- OpenAI Responses API
+
+## Install and run locally
+
+1. Install Node.js 20 or later.
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Create a `.env.local` file based on `.env.example` and add your OpenAI API key:
+
+   ```env
+   OPENAI_API_KEY=your_openai_api_key_here
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+   Open the address Vite prints (usually `http://localhost:5173`). Vite serves the serverless function during local development.
+
+## Deploy to Vercel
+
+1. Push this repository to GitHub, GitLab, or Bitbucket and import it in [Vercel](https://vercel.com/new), or run `vercel` from the project folder.
+2. In **Project Settings → Environment Variables**, add `OPENAI_API_KEY` with your OpenAI API key. Add it for Production, Preview, and Development as appropriate.
+3. Use the automatically detected settings: build command `npm run build` and output directory `dist`.
+4. Deploy. The `/api/convert` Vercel function keeps the API key private on the server.
+
+## Project layout
+
+```
+api/          Vercel serverless OpenAI proxy
+src/components Reusable UI components
+src/utils      Client-side DOCX builder
+src/           React application and styles
+public/        Static assets (ready for additions)
+```
+
+## Notes
+
+- Official letter content is held only in the browser while the page is open. The conversion request is sent to OpenAI through the serverless endpoint and is not stored by this application.
+- DOCX download is generated fully in the browser with no third-party document service.
+- Hindi and Odia are deliberately shown as future placeholders and cannot yet be submitted.
+
