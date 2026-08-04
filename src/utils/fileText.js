@@ -1,1 +1,44 @@
-aW1wb3J0ICogYXMgcGRmanMgZnJvbSAncGRmanMtZGlzdCc7CmltcG9ydCBwZGZXb3JrZXIgZnJvbSAncGRmanMtZGlzdC9idWlsZC9wZGYud29ya2VyLm1pbi5tanM/dXJsJzsKaW1wb3J0IG1hbW1vdGggZnJvbSAnbWFtbW90aC9tYW1tb3RoLmJyb3dzZXInOwoKcGRmanMuR2xvYmFsV29ya2VyT3B0aW9ucy53b3JrZXJTcmMgPSBwZGZXb3JrZXI7Cgpjb25zdCBNQVhfRklMRV9CWVRFUyA9IDEyICogMTAyNCAqIDEwMjQ7CgovKiogRXh0cmFjdHMgc2VsZWN0YWJsZSB0ZXh0IGxvY2FsbHkgZnJvbSBhIHVzZXItcHJvdmlkZWQgUERGIG9yIERPQ1ggZmlsZS4gKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGV4dHJhY3RPZmZpY2lhbExldHRlcihmaWxlKSB7CiAgaWYgKCFmaWxlKSB0aHJvdyBuZXcgRXJyb3IoJ0Nob29zZSBhIFBERiBvciBET0NYIGZpbGUgZmlyc3QuJyk7CiAgaWYgKGZpbGUuc2l6ZSA+IE1BWF9GSUxFX0JZVEVTKSB0aHJvdyBuZXcgRXJyb3IoJ1BsZWFzZSB1cGxvYWQgYSBmaWxlIHNtYWxsZXIgdGhhbiAxMiBNQi4nKTsKICBjb25zdCBleHRlbnNpb24gPSBmaWxlLm5hbWUuc3BsaXQoJy4nKS5wb3AoKT8udG9Mb3dlckNhc2UoKTsKICBpZiAoZXh0ZW5zaW9uID09PSAncGRmJykgcmV0dXJuIHJlYWRQZGYoZmlsZSk7CiAgaWYgKGV4dGVuc2lvbiA9PT0gJ2RvY3gnKSByZXR1cm4gcmVhZERvY3goZmlsZSk7CiAgdGhyb3cgbmV3IEVycm9yKCdVbnN1cHBvcnRlZCBmaWxlLiBQbGVhc2UgdXBsb2FkIGEgUERGIG9yIERPQ1ggZG9jdW1lbnQuJyk7Cn0KCmFzeW5jIGZ1bmN0aW9uIHJlYWRQZGYoZmlsZSkgewogIGNvbnN0IGRvY3VtZW50ID0gYXdhaXQgcGRmanMuZ2V0RG9jdW1lbnQoeyBkYXRhOiBuZXcgVWludDhBcnJheShhd2FpdCBmaWxlLmFycmF5QnVmZmVyKCkpIH0pLnByb21pc2U7CiAgY29uc3QgcGFnZXMgPSBbXTsKICBmb3IgKGxldCBwYWdlTnVtYmVyID0gMTsgcGFnZU51bWJlciA8PSBkb2N1bWVudC5udW1QYWdlczsgcGFnZU51bWJlciArPSAxKSB7CiAgICBjb25zdCBwYWdlID0gYXdhaXQgZG9jdW1lbnQuZ2V0UGFnZShwYWdlTnVtYmVyKTsKICAgIGNvbnN0IGNvbnRlbnQgPSBhd2FpdCBwYWdlLmdldFRleHRDb250ZW50KCk7CiAgICBsZXQgdGV4dCA9ICcnOyBsZXQgcHJldmlvdXNZOwogICAgY29udGVudC5pdGVtcy5mb3JFYWNoKGl0ZW0gPT4gewogICAgICBjb25zdCB5ID0gaXRlbS50cmFuc2Zvcm0/Lls1XTsKICAgICAgaWYgKHByZXZpb3VzWSAhPT0gdW5kZWZpbmVkICYmIE1hdGguYWJzKHkgLSBwcmV2aW91c1kpID4gNCkgdGV4dCArPSAnXG4nOwogICAgICB0ZXh0ICs9IGl0ZW0uc3RyICsgKGl0ZW0uaGFzRU9MID8gJ1xuJyA6ICcgJyk7IHByZXZpb3VzWSA9IHk7CiAgICB9KTsKICAgIHBhZ2VzLnB1c2godGV4dC50cmltKCkpOwogIH0KICBjb25zdCB0ZXh0ID0gcGFnZXMuZmlsdGVyKEJvb2xlYW4pLmpvaW4oJ1xuXG4nKTsKICBpZiAoIXRleHQpIHRocm93IG5ldyBFcnJvcignTm8gc2VsZWN0YWJsZSB0ZXh0IHdhcyBmb3VuZCBpbiB0aGlzIFBERi4gU2Nhbm5lZCBQREZzIG5lZWQgT0NSIGJlZm9yZSB1cGxvYWQuJyk7CiAgcmV0dXJuIHRleHQ7Cn0KCmFzeW5jIGZ1bmN0aW9uIHJlYWREb2N4KGZpbGUpIHsKICBjb25zdCByZXN1bHQgPSBhd2FpdCBtYW1tb3RoLmV4dHJhY3RSYXdUZXh0KHsgYXJyYXlCdWZmZXI6IGF3YWl0IGZpbGUuYXJyYXlCdWZmZXIoKSB9KTsKICBjb25zdCB0ZXh0ID0gcmVzdWx0LnZhbHVlLnRyaW0oKTsKICBpZiAoIXRleHQpIHRocm93IG5ldyBFcnJvcignTm8gdGV4dCB3YXMgZm91bmQgaW4gdGhpcyBXb3JkIGRvY3VtZW50LicpOwogIHJldHVybiB0ZXh0Owp9Cg==
+import * as pdfjs from 'pdfjs-dist';
+import pdfWorker from 'pdfjs-dist/build/pdf.worker.min.mjs?url';
+import mammoth from 'mammoth/mammoth.browser';
+
+pdfjs.GlobalWorkerOptions.workerSrc = pdfWorker;
+
+const MAX_FILE_BYTES = 12 * 1024 * 1024;
+
+/** Extracts selectable text locally from a user-provided PDF or DOCX file. */
+export async function extractOfficialLetter(file) {
+  if (!file) throw new Error('Choose a PDF or DOCX file first.');
+  if (file.size > MAX_FILE_BYTES) throw new Error('Please upload a file smaller than 12 MB.');
+  const extension = file.name.split('.').pop()?.toLowerCase();
+  if (extension === 'pdf') return readPdf(file);
+  if (extension === 'docx') return readDocx(file);
+  throw new Error('Unsupported file. Please upload a PDF or DOCX document.');
+}
+
+async function readPdf(file) {
+  const document = await pdfjs.getDocument({ data: new Uint8Array(await file.arrayBuffer()) }).promise;
+  const pages = [];
+  for (let pageNumber = 1; pageNumber <= document.numPages; pageNumber += 1) {
+    const page = await document.getPage(pageNumber);
+    const content = await page.getTextContent();
+    let text = ''; let previousY;
+    content.items.forEach(item => {
+      const y = item.transform?.[5];
+      if (previousY !== undefined && Math.abs(y - previousY) > 4) text += '\n';
+      text += item.str + (item.hasEOL ? '\n' : ' '); previousY = y;
+    });
+    pages.push(text.trim());
+  }
+  const text = pages.filter(Boolean).join('\n\n');
+  if (!text) throw new Error('No selectable text was found in this PDF. Scanned PDFs need OCR before upload.');
+  return text;
+}
+
+async function readDocx(file) {
+  const result = await mammoth.extractRawText({ arrayBuffer: await file.arrayBuffer() });
+  const text = result.value.trim();
+  if (!text) throw new Error('No text was found in this Word document.');
+  return text;
+}
+
