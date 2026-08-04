@@ -1,1 +1,13 @@
-LyoqIEB0eXBlIHtpbXBvcnQoJ3RhaWx3aW5kY3NzJykuQ29uZmlnfSAqLwpleHBvcnQgZGVmYXVsdCB7CiAgY29udGVudDogWycuL2luZGV4Lmh0bWwnLCAnLi9zcmMvKiovKi57anMsanN4fSddLAogIGRhcmtNb2RlOiAnY2xhc3MnLAogIHRoZW1lOiB7CiAgICBleHRlbmQ6IHsKICAgICAgY29sb3JzOiB7IGdvdmVybm1lbnQ6IHsgNTA6ICcjZjFmN2ZiJywgMTAwOiAnI2RjZWNmNycsIDIwMDogJyNiZmRjZWQnLCA2MDA6ICcjMTM1ZDhkJywgNzAwOiAnIzBkNDk3NCcsIDgwMDogJyMwOTNiNjAnLCA5MDA6ICcjMDgyYzQ5JyB9IH0sCiAgICAgIGJveFNoYWRvdzogeyBjYXJkOiAnMCAxMnB4IDM1cHggLTE4cHggcmdiYSg4LCA0NCwgNzMsIC4yOCknIH0KICAgIH0KICB9LAogIHBsdWdpbnM6IFtdCn07Cg==
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,jsx}'],
+  darkMode: 'class',
+  theme: {
+    extend: {
+      colors: { government: { 50: '#f1f7fb', 100: '#dcecf7', 200: '#bfdced', 600: '#135d8d', 700: '#0d4974', 800: '#093b60', 900: '#082c49' } },
+      boxShadow: { card: '0 12px 35px -18px rgba(8, 44, 73, .28)' }
+    }
+  },
+  plugins: []
+};
+
