@@ -1,1 +1,27 @@
-Ly8gVmVyY2VsIHNlcnZlcmxlc3MgZnVuY3Rpb24uIFRoZSBBUEkga2V5IHJlbWFpbnMgb24gdGhlIHNlcnZlciBhbmQgbm8gdGV4dCBpcyBwZXJzaXN0ZWQuCmV4cG9ydCBkZWZhdWx0IGFzeW5jIGZ1bmN0aW9uIGhhbmRsZXIocmVxdWVzdCwgcmVzcG9uc2UpIHsKICBpZiAocmVxdWVzdC5tZXRob2QgIT09ICdQT1NUJykgcmV0dXJuIHJlc3BvbnNlLnN0YXR1cyg0MDUpLmpzb24oeyBlcnJvcjogJ01ldGhvZCBub3QgYWxsb3dlZC4nIH0pOwogIGlmICghcHJvY2Vzcy5lbnYuT1BFTkFJX0FQSV9LRVkpIHJldHVybiByZXNwb25zZS5zdGF0dXMoNTAwKS5qc29uKHsgZXJyb3I6ICdTZXJ2ZXIgaXMgbWlzc2luZyBPUEVOQUlfQVBJX0tFWS4nIH0pOwoKICBjb25zdCB7IGxldHRlciwgZGVwYXJ0bWVudCA9ICdHZW5lcmFsJywgdG9uZSA9ICdQcm9mZXNzaW9uYWwnLCBsYW5ndWFnZSA9ICdFbmdsaXNoJyB9ID0gcmVxdWVzdC5ib2R5IHx8IHt9OwogIGlmICghbGV0dGVyIHx8ICFsZXR0ZXIudHJpbSgpKSByZXR1cm4gcmVzcG9uc2Uuc3RhdHVzKDQwMCkuanNvbih7IGVycm9yOiAnUGxlYXNlIGVudGVyIGFuIG9mZmljaWFsIGxldHRlciBmaXJzdC4nIH0pOwogIGlmIChsZXR0ZXIubGVuZ3RoID4gMzAwMDApIHJldHVybiByZXNwb25zZS5zdGF0dXMoNDAwKS5qc29uKHsgZXJyb3I6ICdQbGVhc2UgbGltaXQgdGhlIGxldHRlciB0byAzMCwwMDAgY2hhcmFjdGVycy4nIH0pOwogIGlmIChsYW5ndWFnZSAhPT0gJ0VuZ2xpc2gnKSByZXR1cm4gcmVzcG9uc2Uuc3RhdHVzKDQwMCkuanNvbih7IGVycm9yOiBgJHtsYW5ndWFnZX0gc3VwcG9ydCBpcyBjb21pbmcgc29vbi4gUGxlYXNlIHNlbGVjdCBFbmdsaXNoLmAgfSk7CgogIGNvbnN0IHByb21wdCA9IGBZb3UgYXJlIGFuIGV4cGVydCBHb3Zlcm5tZW50IENvcnJlc3BvbmRlbmNlIE9mZmljZXIuXG5cbkNvbnZlcnQgdGhlIGZvbGxvd2luZyBPZmZpY2lhbCBMZXR0ZXIgaW50byBhIHByb3BlciBHb3Zlcm5tZW50IERlbWktT2ZmaWNpYWwgTGV0dGVyLlxuXG5SdWxlczpcblxuRG8gbm90IGNoYW5nZSB0aGUgbWVhbmluZy5cblxuTWFrZSBpdCBtb3JlIHBlcnNvbmFsLlxuXG5NYWludGFpbiBvZmZpY2lhbCBkaWduaXR5LlxuXG5Vc2UgcHJvcGVyIEQuTy4gbGV0dGVyIGxhbmd1YWdlLlxuXG5LZWVwIGltcG9ydGFudCBkYXRlcy5cblxuS2VlcCByZWZlcmVuY2UgbnVtYmVycy5cblxuS2VlcCBuYW1lcy5cblxuVXNlIGNvdXJ0ZW91cyBHb3Zlcm5tZW50IEVuZ2xpc2guXG5cbk91dHB1dCBvbmx5IHRoZSBELk8uIExldHRlci5cblxuRGVwYXJ0bWVudDogJHtkZXBhcnRtZW50fVxuVG9uZTogJHt0b25lfVxuXG5PZmZpY2lhbCBMZXR0ZXI6XG5cbiR7bGV0dGVyLnRyaW0oKX1gOwogIHRyeSB7CiAgICBjb25zdCBhaSA9IGF3YWl0IGZldGNoKCdodHRwczovL2FwaS5vcGVuYWkuY29tL3YxL3Jlc3BvbnNlcycsIHsKICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogYEJlYXJlciAke3Byb2Nlc3MuZW52Lk9QRU5BSV9BUElfS0VZfWAsICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwKICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBtb2RlbDogJ2dwdC00LjEtbWluaScsIGlucHV0OiBwcm9tcHQsIHRlbXBlcmF0dXJlOiAwLjM1IH0pCiAgICB9KTsKICAgIGNvbnN0IHBheWxvYWQgPSBhd2FpdCBhaS5qc29uKCk7CiAgICBpZiAoIWFpLm9rKSB0aHJvdyBuZXcgRXJyb3IocGF5bG9hZD8uZXJyb3I/Lm1lc3NhZ2UgfHwgJ09wZW5BSSByZXF1ZXN0IGZhaWxlZC4nKTsKICAgIGNvbnN0IHJlc3VsdCA9IHBheWxvYWQub3V0cHV0X3RleHQgfHwgcGF5bG9hZC5vdXRwdXQ/LmZsYXRNYXAoaXRlbSA9PiBpdGVtLmNvbnRlbnQgfHwgW10pLm1hcChwYXJ0ID0+IHBhcnQudGV4dCB8fCAnJykuam9pbignJyk7CiAgICBpZiAoIXJlc3VsdCkgdGhyb3cgbmV3IEVycm9yKCdUaGUgQUkgZGlkIG5vdCByZXR1cm4gYSBsZXR0ZXIuIFBsZWFzZSB0cnkgYWdhaW4uJyk7CiAgICByZXNwb25zZS5zdGF0dXMoMjAwKS5qc29uKHsgbGV0dGVyOiByZXN1bHQudHJpbSgpIH0pOwogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICByZXNwb25zZS5zdGF0dXMoNTAyKS5qc29uKHsgZXJyb3I6IGVycm9yLm1lc3NhZ2UgfHwgJ0NvdWxkIG5vdCBnZW5lcmF0ZSB0aGUgRC5PLiBsZXR0ZXIuJyB9KTsKICB9Cn0K
+// Vercel serverless function. The API key remains on the server and no text is persisted.
+export default async function handler(request, response) {
+  if (request.method !== 'POST') return response.status(405).json({ error: 'Method not allowed.' });
+  if (!process.env.OPENAI_API_KEY) return response.status(500).json({ error: 'Server is missing OPENAI_API_KEY.' });
+
+  const { letter, department = 'General', tone = 'Professional', language = 'English' } = request.body || {};
+  if (!letter || !letter.trim()) return response.status(400).json({ error: 'Please enter an official letter first.' });
+  if (letter.length > 30000) return response.status(400).json({ error: 'Please limit the letter to 30,000 characters.' });
+  if (language !== 'English') return response.status(400).json({ error: `${language} support is coming soon. Please select English.` });
+
+  const prompt = `You are an expert Government Correspondence Officer.\n\nConvert the following Official Letter into a proper Government Demi-Official Letter.\n\nRules:\n\nDo not change the meaning.\n\nMake it more personal.\n\nMaintain official dignity.\n\nUse proper D.O. letter language.\n\nKeep important dates.\n\nKeep reference numbers.\n\nKeep names.\n\nUse courteous Government English.\n\nOutput only the D.O. Letter.\n\nDepartment: ${department}\nTone: ${tone}\n\nOfficial Letter:\n\n${letter.trim()}`;
+  try {
+    const ai = await fetch('https://api.openai.com/v1/responses', {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${process.env.OPENAI_API_KEY}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ model: 'gpt-4.1-mini', input: prompt, temperature: 0.35 })
+    });
+    const payload = await ai.json();
+    if (!ai.ok) throw new Error(payload?.error?.message || 'OpenAI request failed.');
+    const result = payload.output_text || payload.output?.flatMap(item => item.content || []).map(part => part.text || '').join('');
+    if (!result) throw new Error('The AI did not return a letter. Please try again.');
+    response.status(200).json({ letter: result.trim() });
+  } catch (error) {
+    response.status(502).json({ error: error.message || 'Could not generate the D.O. letter.' });
+  }
+}
+
