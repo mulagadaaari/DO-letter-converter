@@ -1,1 +1,5 @@
-ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVG9hc3QoeyBtZXNzYWdlIH0pIHsKICBpZiAoIW1lc3NhZ2UpIHJldHVybiBudWxsOwogIHJldHVybiA8ZGl2IHJvbGU9InN0YXR1cyIgY2xhc3NOYW1lPSJmaXhlZCBib3R0b20tNSBsZWZ0LTEvMiB6LTUwIC10cmFuc2xhdGUteC0xLzIgcm91bmRlZC1mdWxsIGJnLWdvdmVybm1lbnQtOTAwIHB4LTUgcHktMyB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtd2hpdGUgc2hhZG93LXhsIGFuaW1hdGUtaW4iPnttZXNzYWdlfTwvZGl2PjsKfQo=
+export default function Toast({ message }) {
+  if (!message) return null;
+  return <div role="status" className="fixed bottom-5 left-1/2 z-50 -translate-x-1/2 rounded-full bg-government-900 px-5 py-3 text-sm font-medium text-white shadow-xl animate-in">{message}</div>;
+}
+
