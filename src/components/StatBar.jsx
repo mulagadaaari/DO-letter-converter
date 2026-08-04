@@ -1,1 +1,5 @@
-ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gU3RhdEJhcih7IHRleHQgfSkgewogIGNvbnN0IHdvcmRzID0gdGV4dC50cmltKCkgPyB0ZXh0LnRyaW0oKS5zcGxpdCgvXHMrLykubGVuZ3RoIDogMDsKICByZXR1cm4gPGRpdiBjbGFzc05hbWU9ImZsZXgganVzdGlmeS1iZXR3ZWVuIHRleHQteHMgdGV4dC1zbGF0ZS01MDAgZGFyazp0ZXh0LXNsYXRlLTQwMCI+PHNwYW4+e3RleHQubGVuZ3RoLnRvTG9jYWxlU3RyaW5nKCl9IGNoYXJhY3RlcnM8L3NwYW4+PHNwYW4+e3dvcmRzLnRvTG9jYWxlU3RyaW5nKCl9IHdvcmRzPC9zcGFuPjwvZGl2PjsKfQo=
+export default function StatBar({ text }) {
+  const words = text.trim() ? text.trim().split(/\s+/).length : 0;
+  return <div className="flex justify-between text-xs text-slate-500 dark:text-slate-400"><span>{text.length.toLocaleString()} characters</span><span>{words.toLocaleString()} words</span></div>;
+}
+
